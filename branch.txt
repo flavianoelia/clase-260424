@@ -1,7 +1,4 @@
 branch
 branches
-<<<<<<< HEAD
 flaycoty
-=======
 flayemi
->>>>>>> rama1
